@@ -11,7 +11,7 @@ Ergänzt die gemeinsamen Regeln aller Projekte (`~/.claude/CLAUDE.md` → `~/ai_
 | Ort | Zweck |
 |---|---|
 | `index.html` | die ganze Seite (Scrollytelling, Phasen, RACI-Radar, Deliverables-Matrix, Studiengänge; kein Build, kein Server) |
-| `data.js` | gemeinsame Daten von `index.html` und `ACCREDO_v2/` (Ablage, Studiengänge, Phasenordner, Dokumenttexte); klassisches Script, damit `file://` geht |
+| `ACCREDO_v2/data.js` | gemeinsame Daten von `index.html` und `ACCREDO_v2/` (Ablage, Studiengänge, Phasenordner, Dokumenttexte); klassisches Script, damit `file://` geht |
 | `README.md` | Funktionen + Ablageorte (Moodle-Kurs „ACCREDO“) |
 
 ## 5. Arbeitsweise (Ergänzung)
